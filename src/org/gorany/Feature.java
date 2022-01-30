@@ -10,5 +10,6 @@ public class Feature {
 
         /* Commit 5 - ticket-2 */
         /* Commit 6 - ticket-2 */
+        /* Commit 7 - ticket-2 */
     }
 }
