@@ -6,5 +6,6 @@ public class Feature {
         /* Commit 1 - main */
         /* Commit 2 - rebase/2 */
         /* Commit 3 - rebase/2 */
+        /* Commit 4 - rebase/1 */
     }
 }
