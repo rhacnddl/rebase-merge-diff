@@ -9,6 +9,6 @@ public class Feature {
         /* Commit 4 - rebase/1 */
 
         /* Commit 5 - ticket-2 */
-
+        /* Commit 6 - ticket-2 */
     }
 }
